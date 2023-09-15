@@ -1,0 +1,22 @@
+body {
+    color: #fff;
+    background: #333436;
+
+    font-family: Arial / Courier / Impact / Tahoma;
+    font-size: 12pt;
+    font-weight: bold;
+}
+
+hr {
+    height: 2px;
+    border: none;
+    background-color: tomato;
+}
+
+ul {
+    list-style-type: square;
+}
+
+img {
+    width: 50%;
+}
